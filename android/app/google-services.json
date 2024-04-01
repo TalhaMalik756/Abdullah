@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565458584973",
+    "project_id": "soil-mate-1bd0b",
+    "storage_bucket": "soil-mate-1bd0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565458584973:android:7e093e0ee59033f10ca9c4",
+        "android_client_info": {
+          "package_name": "com.example.soilmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcypRubFSABySOA5zMZkv96q4vbWVH0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
