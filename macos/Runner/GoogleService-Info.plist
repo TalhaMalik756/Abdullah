@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBFrLS0o6_uusf3ut3tOhnad-RJ6PreRZ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565458584973</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.soilmateFlutter.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>soil-mate-1bd0b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>soil-mate-1bd0b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565458584973:ios:9b13ddbdf0aab98a0ca9c4</string>
+</dict>
+</plist>

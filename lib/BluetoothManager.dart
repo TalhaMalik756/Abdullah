@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
 
 class BluetoothManager {
@@ -11,7 +10,7 @@ class BluetoothManager {
     try {
       // Check if Bluetooth is available
       bool? isEnabled = await _bluetooth.isEnabled; // Make isEnabled nullable
-      if (isEnabled != null && !isEnabled) { // Check if isEnabled is not null
+      if (!isEnabled!) { // Check if isEnabled is not null
         await _bluetooth.requestEnable();
       }
 
